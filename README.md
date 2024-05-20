@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focuses on the analysis of music genres and playlists using provided datasets. It demonstrates a comprehensive approach to data science, including data cleaning, exploratory data analysis (EDA), feature engineering, and the development of a genre prediction system using machine learning techniques. The project aims to showcase a range of data science skills essential for a data scientist role at a prestigious company like Spotify.
+This project focuses on the analysis of music genres and playlists using provided datasets. It demonstrates a comprehensive approach to data science, including data cleaning, exploratory data analysis (EDA), feature engineering, and the development of a genre prediction system using machine learning techniques. The project aims to showcase a range of data science skills essential for a data scientist role.
 
 ## Table of Contents
 
